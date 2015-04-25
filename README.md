@@ -29,3 +29,8 @@ Filing status codes:  <ol>
 </ol>
 
 Run the `taxliab_example.m` script to demonstrate examples of how the `taxliab.m` function can be used.
+
+<div>
+    <a href="https://plot.ly/~hautahi/30/" target="_blank" title="Nominal Tax Liability Series" style="display: block; text-align: center;"><img src="https://plot.ly/~hautahi/30.png" alt="Nominal Tax Liability Series" style="max-width: 100%;width: 792px;"  width="792" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="hautahi:30" src="https://plot.ly/embed.js" async></script>
+</div>
